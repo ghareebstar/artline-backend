@@ -75,7 +75,7 @@ const TeamSection = () => {
                                     </div>
                                 </div>
                                 <div className="member-info">
-                                    <h4>Mohammad Tahir</h4>
+                                    <h4>Wajid Ali</h4>
                                     <span>Chief Executive Officer</span>
                                 </div>
                             </div>
@@ -130,7 +130,7 @@ const TeamSection = () => {
                                     </div>
                                 </div>
                                 <div className="member-info">
-                                    <h4>Mohammad Abdullah </h4>
+                                    <h4>Mohammad Tahir </h4>
                                     <span>Web Developer</span>
                                 </div>
                             </div>
